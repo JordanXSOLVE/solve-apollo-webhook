@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/apollo-webhook.js": {
+      "maxDuration": 10
+    }
+  }
+}
